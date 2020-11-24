@@ -88,4 +88,6 @@ dependencies {
 
     // Logging
     implementation 'com.jakewharton.timber:timber:4.7.1'
+
+    implementation 'uk.co.chrisjenx:calligraphy:2.3.0'
 }
