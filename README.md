@@ -1,0 +1,2 @@
+# android-horoscope
+Qaraqalpaqsha juldiznama
